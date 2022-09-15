@@ -3,4 +3,8 @@ second line
 third line
 forth line
 fifth line
+<<<<<<< HEAD
 sixth line
+=======
+seventh line
+>>>>>>> fb1
